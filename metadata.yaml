@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42670
     wikipedia: https://en.wikipedia.org/wiki/Pierre-Joseph_Buc%27hoz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44276#The-Toilet-of-Floraand-sweet-sc
 gutenberg_issued: '2013-11-24'
 gutenberg_type: Text
 identifiers:
