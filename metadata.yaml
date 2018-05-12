@@ -1,0 +1,37 @@
+_repo: The-Toilet-of-Floraand-sweet-sc_44276
+_version: 0.1.0
+alternative_title: Toilette de Flore. English
+covers:
+- cover_type: archival
+  image_path: 44276-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Buc'hoz, Pierre-Joseph
+    aliases:
+    - Buchoz, Joseph-Pierre
+    - Buc'hoz, M. (Pierre-Joseph)
+    - Buc'hoz, J. P. (Joseph Pierre)
+    birthdate: 1731
+    deathdate: 1807
+    gutenberg_agent_id: '42670'
+    url: http://www.gutenberg.org/2009/agents/42670
+    wikipedia: https://en.wikipedia.org/wiki/Pierre-Joseph_Buc%27hoz
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beauty, Personal -- Early works to 1800'
+- !lcc 'TP'
+- !lcsh 'Perfumes -- Early works to 1800'
+- !lcsh 'Cosmetics -- Early works to 1800'
+title: "The Toilet of Flora\r\nor, A collection of the most simple and approved methods\
+  \ of preparing baths, essences, pomatums, powders, perfumes, and sweet-scented waters.\
+  \ With receipts for cosmetics of every kind, that can smooth and brighten the skin,\
+  \ give force to beauty, and take off the appearance of old age and decay"
+url: http://www.gutenberg.org/ebooks/44276
